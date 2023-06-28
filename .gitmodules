@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "OOI"]
 	path = OOI
 	url = https://github.com/cran/OOI
-	shallow = true
-	registered = true
 [submodule "optinterv"]
 	path = optinterv
 	url = https://github.com/cran/optinterv
-	shallow = true
-	registered = true
 [submodule "VSdecomp"]
 	path = VSdecomp
 	url = https://github.com/cran/VSdecomp
-	shallow = true
-	registered = true
